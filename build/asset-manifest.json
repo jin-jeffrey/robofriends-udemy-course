@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf959766.chunk.css",
-    "main.js": "/static/js/main.91cc6d21.chunk.js",
-    "main.js.map": "/static/js/main.91cc6d21.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.cff0e806.js",
-    "runtime-main.js.map": "/static/js/runtime-main.cff0e806.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.3a77dedc.chunk.js": "/static/js/2.3a77dedc.chunk.js",
-    "static/js/2.3a77dedc.chunk.js.map": "/static/js/2.3a77dedc.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.69cb22139e910ee454b1371a4d423789.js": "/precache-manifest.69cb22139e910ee454b1371a4d423789.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.cf959766.chunk.css.map": "/static/css/main.cf959766.chunk.css.map",
-    "static/js/2.3a77dedc.chunk.js.LICENSE": "/static/js/2.3a77dedc.chunk.js.LICENSE"
+    "main.css": "/robofriends-udemy-course/static/css/main.cf959766.chunk.css",
+    "main.js": "/robofriends-udemy-course/static/js/main.50e501bc.chunk.js",
+    "main.js.map": "/robofriends-udemy-course/static/js/main.50e501bc.chunk.js.map",
+    "runtime-main.js": "/robofriends-udemy-course/static/js/runtime-main.511a6d2a.js",
+    "runtime-main.js.map": "/robofriends-udemy-course/static/js/runtime-main.511a6d2a.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/robofriends-udemy-course/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c8ed3679.chunk.js": "/robofriends-udemy-course/static/js/2.c8ed3679.chunk.js",
+    "static/js/2.c8ed3679.chunk.js.map": "/robofriends-udemy-course/static/js/2.c8ed3679.chunk.js.map",
+    "index.html": "/robofriends-udemy-course/index.html",
+    "precache-manifest.ea58b827d3b68303b4b75fafb7516b72.js": "/robofriends-udemy-course/precache-manifest.ea58b827d3b68303b4b75fafb7516b72.js",
+    "service-worker.js": "/robofriends-udemy-course/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/robofriends-udemy-course/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.cf959766.chunk.css.map": "/robofriends-udemy-course/static/css/main.cf959766.chunk.css.map",
+    "static/js/2.c8ed3679.chunk.js.LICENSE": "/robofriends-udemy-course/static/js/2.c8ed3679.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.cff0e806.js",
+    "static/js/runtime-main.511a6d2a.js",
     "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.3a77dedc.chunk.js",
+    "static/js/2.c8ed3679.chunk.js",
     "static/css/main.cf959766.chunk.css",
-    "static/js/main.91cc6d21.chunk.js"
+    "static/js/main.50e501bc.chunk.js"
   ]
 }
